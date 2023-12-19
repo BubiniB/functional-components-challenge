@@ -1,0 +1,6 @@
+rfce: functional component
+rafce: Arrow function component
+rce: class component
+rconst: constructor template
+clg: console.log
+clo: console.log('object', object)
